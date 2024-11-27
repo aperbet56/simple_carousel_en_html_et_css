@@ -6,7 +6,7 @@ Création d'un simple carrousel responsive en HTML5 et CSS3
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/simple_carousel_en_html_et_css/
 
 ## Projet développé avec
 
