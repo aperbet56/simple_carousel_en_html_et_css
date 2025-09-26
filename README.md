@@ -1,8 +1,10 @@
 ## SIMPLE CARROUSEL EN HTML5 ET CSS3
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
-Création d'un simple carrousel responsive en HTML5 et CSS3
+Création d'un simple carrousel responsive en HTML5 et CSS3.
 
 ## Démonstration
 
